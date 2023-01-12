@@ -40,9 +40,4 @@ I'm Bryan, a computer science student who learns programing in several languages
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=BryanBlinDorard&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=BryanBlinDorard&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BryanBlinDorard&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 [![](https://visitcount.itsvg.in/api?id=BryanBlinDorard&icon=5&color=11)](https://visitcount.itsvg.in)
